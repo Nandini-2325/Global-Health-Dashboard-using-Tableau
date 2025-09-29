@@ -66,5 +66,7 @@ The dataset includes:
 The **Global Health Dashboard** enables:  
 - Interactive exploration of **health indicators**  
 - Identification of **global and regional health patterns**  
-- Insights into **life expectancy trends, disease burdens, and demographic distributions**  
+- Insights into **life expectancy trends, disease burdens, and demographic distributions**
+<img width="2178" height="805" alt="image" src="https://github.com/user-attachments/assets/da063dee-71fd-4934-accd-611567b7e93c" />
+ 
 [Link to my Report](https://public.tableau.com/shared/44R6598ST?:display_count=n&:origin=viz_share_link)
